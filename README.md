@@ -7,6 +7,8 @@ This is a collection of projects I've created related to Data Science and Machin
 ### Data Analysis:
 
 ### Data Analytics:
+ - [Housing Price Prediction] (https://www.kaggle.com/kigett/housing-price-advregression)
+ Predicting the house prices in melbourne based on several parameters. Created as a part of a  Kaggle Competition. 
 
 ### Machine Learning Projects :
 
