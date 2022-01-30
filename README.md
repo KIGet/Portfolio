@@ -8,7 +8,7 @@ This is a collection of projects I've created related to Data Science and Machin
 
 ### Data Analytics:
  - [Housing Price Prediction](https://www.kaggle.com/kigett/housing-price-advregression)  
- Predicting the house prices in melbourne based on several parameters. Created as a part of a  Kaggle Competition. 
+ Predicting the house prices in melbourne based on several parameters.  Created as a submission to a Kaggle Competition. 
 
 ### Machine Learning Projects :
 
@@ -16,7 +16,7 @@ This is a collection of projects I've created related to Data Science and Machin
 
 ### NLP and Computer Vision:
  -  [Author identification](https://www.kaggle.com/kigett/author-identification-nltk-naive-bayes)  
- Objective is to identify authors based on some phrases extracted from several books they have written. Created as a part of a Kaggle competetion. 
+ Objective is to identify authors based on some phrases extracted from several books they have written. Created as a submission to a Kaggle competetion. 
 
 ### Other : 
  - [IBM DataScience Professional Certificate Capstone Project](https://github.com/KIGet/IBM_DataScience_Capstone)  
