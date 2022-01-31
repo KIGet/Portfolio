@@ -4,13 +4,15 @@ This is a collection of projects I've created related to Data Science and Machin
 
 ## Contents
 
-### Data Analysis:
-
 ### Data Analytics:
  - [Housing Price Prediction](https://www.kaggle.com/kigett/housing-price-advregression)  
  Predicting the house prices in melbourne based on several parameters.  Created as a submission to a Kaggle Competition. 
+ 
+ -[Customer Segmentation](https://github.com/KIGet/Portfolio/blob/main/Projects/Customer%20Segmentation/CustomerSegmentation.ipynb)  
+ The project aims to identify customer types and create a customer segmentation based on a retail store customer and past purchase data. K means clustering is used to segment the customers in to clusters and identify features.  
 
 ### Machine Learning Projects :
+
 
 ### Deep Learning:
 
