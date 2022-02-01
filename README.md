@@ -4,11 +4,15 @@ This is a collection of projects I've created related to Data Science and Machin
 
 ## Contents
 
+### Exploratory Data Analysis: 
+- [Sales Exploratory Data Analysis](https://nbviewer.org/github/KIGet/Portfolio/blob/main/Projects/Product%20Sales%20Data/Analyze%20Product%20Sales%20Data.ipynb)  
+The aim of the project is to conduct exploratory data analysis on the sales of products of a perticular electronics store, througout the year 2019. Data sets are available seperately for each month. 
+
 ### Data Analytics:
  - [Housing Price Prediction](https://www.kaggle.com/kigett/housing-price-advregression)  
  Predicting the house prices in melbourne based on several parameters.  Created as a submission to a Kaggle Competition.   
  
- - [Customer Segmentation](https://github.com/KIGet/Portfolio/blob/main/Projects/Customer%20Segmentation/CustomerSegmentation.ipynb)  
+ - [Retail Customer Segmentation](https://nbviewer.org/github/KIGet/Portfolio/blob/main/Projects/Customer%20Segmentation/CustomerSegmentation.ipynb)  
  The project aims to identify customer types and create a customer segmentation based on a retail store customer and past purchase data. K means clustering is used to segment the customers in to clusters and identify features.  
 
 ### Machine Learning Projects :
